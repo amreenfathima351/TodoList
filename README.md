@@ -1,9 +1,9 @@
-**Name:** Amreen Fathima A
-**Company:** CODTECH IT SOLUTIONS
-**ID:** CT08DS6414
-**Domain:** Web Development
-**Duration:** August to September 2024
-**Mentor:** Muzammil Ahmed
+**Name:** Amreen Fathima A <br>
+**Company:** CODTECH IT SOLUTIONS <br>
+**ID:** CT08DS6414 <br>
+**Domain:** Web Development <br>
+**Duration:** August to September 2024 <br>
+**Mentor:** Muzammil Ahmed <br>
 
 ## Overview of the Project  
 
