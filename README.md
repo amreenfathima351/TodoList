@@ -7,7 +7,7 @@
 
 ## Overview of the Project  
 
-### Todo List WebApplication
+### Todo List Web Application
 
 ### Introduction
 The Todo List Application is a simple web-based task management tool that allows users to add, edit, delete, and mark tasks as completed. This project is designed to be a functional, easy-to-use, and visually appealing to-do list manager. It incorporates fundamental web development technologies and practices, including HTML, CSS, and JavaScript, with additional use of Font Awesome for icons
