@@ -1,0 +1,172 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: bisque;
+}
+
+.todo {
+    border: 1px solid #ccc;
+    text-align: center;
+    width: 90%;
+    max-width: 600px;
+    background-color: white;
+    margin: 10px;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 3px 3px 6px rgba(0, 0, 0, .4);
+}
+.input-container{
+    position: relative;
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+h1 {
+    text-align: center;
+    padding: 10px;
+    font-size: 2.5em;
+    color: cadetblue;
+    cursor: pointer;
+}
+
+.input-wrapper {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    margin-bottom: 15px;
+}
+
+.todo-input {
+    border: 1px solid gray;
+    border-radius: 8px;
+    text-align: center;
+    padding: 2px 15px;
+    height: 35px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.plus {
+    position: absolute;
+    right: 20px;
+    top: 50%;
+    transform: translateY(-50%);
+    border: none;
+    color: #007bff;
+    background-color: transparent;
+    cursor: pointer;
+    text-align: center;
+}
+
+.container {
+    color: black;
+}
+
+.todo-list {
+    border: 1px solid gray;
+    border-radius: 8px;
+    position: relative;
+    margin: 5px 0;
+    padding: 5px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    box-sizing: border-box;
+
+}
+.todo-list .actions{
+    display: flex;
+    align-items: center;
+}
+
+
+li {
+    list-style-type: none;
+    border: 1px solid gray;
+    border-radius: 8px;
+    margin: 5px 0;
+    height: 35px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    box-sizing: border-box;
+}
+.editBtn, .delBtn {
+    margin-left: 10px;
+    cursor: pointer;
+    background: none;
+    border: none;
+}
+.check {
+    cursor: pointer;
+    width: 20px;
+    margin-right: 10px;
+}
+
+.editBtn {
+  color: #007bff;
+}
+.delBtn {
+    color: red;
+}
+
+.checked {
+    text-decoration: line-through;
+}
+
+@media (max-width: 768px) {
+    .todo {
+        width: 95%;
+    }
+
+    h1 {
+        font-size: 2em;
+    }
+
+    .todo-input {
+        width: 100%;
+    }
+
+    .plus {
+        right: 5px;
+    }
+
+    .check {
+        width: 20px;
+        margin-right: 10px;
+    }
+}
+
+@media (max-width: 480px) {
+    .todo {
+        width: 100%;
+        padding: 10px;
+    }
+
+    h1 {
+        font-size: 1.5em;
+    }
+
+    .todo-input {
+        width: 100%;
+    }
+
+    .plus {
+        right: 0;
+    }
+
+    .check {
+        width: 20px;
+        margin-right: 10px;
+    }
+}
