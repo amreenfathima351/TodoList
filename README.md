@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/32ed0c18-7351-4197-926d-ec68365ca8c7)**Name:** Amreen Fathima A <br>
+**Name:** Amreen Fathima A <br>
 **Company:** CODTECH IT SOLUTIONS <br>
 **ID:** CT08DS6414 <br>
 **Domain:** Web Development <br>
