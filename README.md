@@ -1,4 +1,4 @@
-**Name:** Amreen Fathima A <br>
+![image](https://github.com/user-attachments/assets/32ed0c18-7351-4197-926d-ec68365ca8c7)**Name:** Amreen Fathima A <br>
 **Company:** CODTECH IT SOLUTIONS <br>
 **ID:** CT08DS6414 <br>
 **Domain:** Web Development <br>
@@ -15,6 +15,21 @@ The Todo List Application is a simple web-based task management tool that allows
 ### Demo
 Check out the live demo of the project: [TodoList](https://amreenfathima351.github.io/CODTECH-Task1/)
 
+#### ScreenShots
+**TodoList**
+![image](https://github.com/user-attachments/assets/193601fa-5fcd-4d86-8226-3bb56862c1bc)
+**Null Task to Add**
+![image](https://github.com/user-attachments/assets/ebf3ec5a-7842-44a0-9f53-debb895ba629)
+**Adding Task**
+![image](https://github.com/user-attachments/assets/721d0cd1-707f-4a9f-9c9e-4a8dc6eb3d2a)
+**Complete Task**
+![image](https://github.com/user-attachments/assets/00415975-fc44-4d6a-8e88-a143b6f61a87)
+**Edit Task**
+![image](https://github.com/user-attachments/assets/ade6abd8-54fb-496f-894e-08020113c30e)
+**After Edit Task**
+![image](https://github.com/user-attachments/assets/dc34a82a-540d-436d-b1cf-73e96161d204)
+**Delete Task**
+![image](https://github.com/user-attachments/assets/0f8525e8-b186-4e45-bad7-3c46aeb9d999)
 
 ### Features
 - **Add Task**: Users can input a task and add it to the list by clicking the plus button.
